@@ -1,4 +1,27 @@
 .div1{
     display: flex;
-    justify-content: space-between;
+    justify-content:space-around;
+    border: solid black 2px;
+}
+
+.div2{
+  border: solid black 2px;
+}
+
+.div3{
+    display: flex;
+    flex-direction: row;
+}
+
+.profile-image{
+  width: 1px;
+  height:1px;
+  background: #e0e0e0;
+  border: 2px dashed #bbb;
+  display: flex;
+  align-items:left;
+  justify-content:left;
+  color: #888;
+  font-size: 1.1em;
+  margin-left: 32px;
 }
