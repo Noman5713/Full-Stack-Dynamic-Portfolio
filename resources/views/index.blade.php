@@ -48,7 +48,7 @@
 	<div class="arlo_tm_mobile_header_wrap">
 		<div class="main_wrap">
 			<div class="logo">
-				<h1 style="font-size: 18px; color:aliceblue;text-transform: uppercase;">Rashik Shahriar Akash</h1>
+				<h1 style="font-size: 18px; color:aliceblue;text-transform: uppercase;">Abdullah Al Noman</h1>
 			</div>
 			<div class="arlo_tm_trigger">
 				<div class="hamburger hamburger--collapse-r">
@@ -86,7 +86,7 @@
 			<div class="leftpart_inner">
 				<div class="logo_wrap">
 					<!-- <a href="#"><img src="img/logo/desktop-logo.png" alt="desktop-logo" /></a> -->
-					<h1 style="font-size: 36px; color:aliceblue;text-transform: uppercase;">Rashik Shahriar</h1>
+					<h1 style="font-size: 36px; color:aliceblue;text-transform: uppercase;">Abdullah<br> Al<br> Noman</h1>
 				</div>
 				<div class="menu_list_wrap">
 					<ul class="anchor_nav">
@@ -137,7 +137,7 @@
 										<div class="about_image_wrap parallax" data-relative-input="true">
 											<div class="image layer" data-depth="0.01">
 												<img src="{{ asset('img/about/Rashik0.jpg') }}"/>
-												<div class="inner" data-img-url="{{ asset('img/about/Rashik2.JPG') }}"></div>
+												<div class="inner" data-img-url="{{ asset('img/about/noman02.JPG') }}"></div>
 											</div>
 											<div class="border layer" data-depth="0.01">
 												<img src="{{ asset('img/about/Rashik0.jpg') }}" alt="550x640" />
@@ -148,19 +148,19 @@
 									</div>
 									<div class="rightbox">
 										<div class="arlo_tm_mini_title_holder">
-											<h4>Hi there! I'm Rashik Shahriar Akash and I'm</h4>
+											<h4>Hi there! I'm Abdullah Al Noman and I'm</h4>
 											<h4><span class="arlo_tm_animation_text_word"></span>.</h4>
 										</div>
 										<div class="definition">
-											<p style="text-align: justify"> I am a Computer Science graduate with a strong academic background and research experience, particularly in artificial intelligence and machine learning. I have collaborated on impactful projects under the supervision of distinguished faculty, including Dr. Zahid Hasan, and have authored multiple research papers published in Q1 and Q2 journals. My interests lie in developing innovative AI models to solve real-world problems.
+											<p style="text-align: justify"> I am a Computer Science final year student with a strong academic background and research experience, particularly in artificial intelligence and machine learning, computer vision and natural language preprocessing. I have collaborated on impactful projects under the supervision of distinguished faculty, including Dr. Zahid Hasan, and have authored multiple research papers published in conference. My interests lie in developing innovative AI models to solve real-world problems.
 
-												My research focuses on designing deep learning models for healthcare applications, such as SAMU-Net for polyp segmentation and risk assessment frameworks for breast cancer detection. I have also worked on early dengue prediction and scalable analysis of DNA data using PySpark. Beyond healthcare, my work extends to natural language processing and social networks, emphasizing AI for social good. 
+												My research focuses on designing deep learning models for healthcare applications, solving real world problem through IoT devices embedded with AI. Beyond healthcare and IoT, my work extends to natural language processing and social networks, emphasizing AI for social good. 
 
 											<div>
-												<strong> Research Areas: </strong> Deep Learning, Computer Vision, Natural Language Processing, Computational Biology, AI for Social Good
+												<strong> Research Areas: </strong> Deep Learning, Computer Vision, Natural Language Processing, Computational Biology, IoT and AI for Social Good
 											</div>
 											<div>
-												<strong> Research Topics: </strong> Healthcare AI, Medical Image Analysis, Early Disease Detection, Genomic Data Analysis, AI-Driven Social Network Analysis
+												<strong> Research Topics: </strong> Healthcare AI, Medical Image Analysis, Early Disease Detection, Genomic Data Analysis, AI-Driven Social Network Analysis, IoT implementaton in Agriculture
 											</div>
 										</div>
 										
@@ -192,12 +192,9 @@
 								<ul class="total_100">
 									
 									<p><b> <font size="4">Bachelor of Science in Computer Science & Engineering</font></b></p>
-									<p><font size="3">Daffodil International University</p> (May 2020 - June 2024)</font>
+									<p><font size="3">Daffodil International University</p> (January 2022 - )</font>
 									<p><font size="3">CGPA <b>3.93</b>/4.00</p></font>
 										
-									<li>
-										<p> <b>Gold Medalist</b> of 12th Convocation, Daffodil International University </p>
-									</li>
 								</ul>
 							</div>
 						</div>
