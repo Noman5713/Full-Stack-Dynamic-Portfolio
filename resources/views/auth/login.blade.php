@@ -12,7 +12,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            background: linear-gradient(135deg,rgb(146, 115, 146) 0%, #2575fc 100%);
+            background: linear-gradient(120deg, #f8fafc 0%, #b6e0fe 50%, #e0c3fc 100%);
             font-family: 'Segoe UI', Arial, sans-serif;
         }
         .loginFormContainer {

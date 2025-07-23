@@ -12,7 +12,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            background: linear-gradient(135deg,rgb(146, 115, 146) 0%, #2575fc 100%);
+            background: linear-gradient(120deg,rgb(164, 202, 240) 0%,rgb(86, 109, 144) 50%,rgb(174, 131, 214) 100%);
             font-family: 'Segoe UI', Arial, sans-serif;
         }
         .registerFormContainer {
