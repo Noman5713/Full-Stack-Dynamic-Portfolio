@@ -13,7 +13,7 @@ return new class extends Migration
     {
         Schema::create('educations', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('user_id')->constrained()->onDelete('cascade');
+            $table->unsignedBigInteger('user_id');
             $table->enum('type', ['SSC', 'HSC', 'BSc', 'MSc']);
             $table->string('name');
             $table->string('institute');
@@ -21,6 +21,10 @@ return new class extends Migration
             $table->year('passing_year');
             $table->string('grade');
             $table->timestamps();
+        });
+
+         Schema::table('educations', function (Blueprint $table) {
+        $table->foreign('user_id')->references('id')->on('users')->ondelete('cascade');
         });
     }
 

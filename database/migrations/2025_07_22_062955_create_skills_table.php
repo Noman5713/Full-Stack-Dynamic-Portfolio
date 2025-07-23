@@ -13,12 +13,16 @@ return new class extends Migration
     {
         Schema::create('skills', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('user_id')->constrained()->onDelete('cascade');
+            $table->unsignedBigInteger('user_id');
             $table->string('name');
             $table->enum('type', ['technical', 'soft']);
             $table->enum('level', ['beginner', 'intermediate', 'expert']);
             $table->string('logo')->nullable();
             $table->timestamps();
+        });
+
+        Schema::table('skills', function (Blueprint $table) {
+        $table->foreign('user_id')->references('id')->on('users')->ondelete('cascade');
         });
     }
 
