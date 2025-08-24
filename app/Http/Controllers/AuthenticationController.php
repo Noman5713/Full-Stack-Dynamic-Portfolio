@@ -19,7 +19,7 @@ class AuthenticationController extends Controller
         ]);
 
         if(Auth::attempt($credentials)){
-            return redirect()->route('dashboard');
+            return redirect()->route('admin.dashboard');
         }
         else{
             return redirect()->route('login')->with('error', 'Invalid credentials');
@@ -48,10 +48,19 @@ class AuthenticationController extends Controller
         ]);
 
         if ($user) {
-            echo "Registration successful";
+            Auth::login($user);
+            return redirect()->route('admin.dashboard')->with('success', 'Registration successful! Welcome to your portfolio admin panel.');
         } else {
-            echo "Registration failed";
+            return redirect()->route('register')->with('error', 'Registration failed. Please try again.');
         }
+    }
 
+    public function logout(Request $request)
+    {
+        Auth::logout();
+        $request->session()->invalidate();
+        $request->session()->regenerateToken();
+        
+        return redirect('/login')->with('success', 'You have been logged out successfully.');
     }
 }

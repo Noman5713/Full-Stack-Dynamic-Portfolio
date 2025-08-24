@@ -23,7 +23,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link rel="shortcut icon" type="x-icon" href="{{ asset('img/about/favicon.png') }}">
-<title>Rashik's Portfolio</title>
+<title>Abdullah's Portfolio</title>
 
 <!-- STYLES -->
 <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
@@ -60,7 +60,7 @@
 	<div class="arlo_tm_mobile_header_wrap">
 		<div class="main_wrap">
 			<div class="logo">
-				<h1 style="font-size: 18px; color:aliceblue;text-transform: uppercase;">Rashik Shahriar Akash</h1>
+				<h1 style="font-size: 18px; color:aliceblue;text-transform: uppercase;">Abdullah Al Noman</h1>
 			</div>
 			<div class="arlo_tm_trigger">
 				<div class="hamburger hamburger--collapse-r">
@@ -98,7 +98,7 @@
 			<div class="leftpart_inner">
 				<div class="logo_wrap">
 					<!-- <a href="#"><img src="img/logo/desktop-logo.png" alt="desktop-logo" /></a> -->
-					<h1 style="font-size: 36px; color:aliceblue;text-transform: uppercase;">Rashik Shahriar</h1>
+					<h1 style="font-size: 36px; color:aliceblue;text-transform: uppercase;">Abdullah Al Noman</h1>
 				</div>
 				<div class="menu_list_wrap">
 					<ul class="anchor_nav">
@@ -609,7 +609,7 @@
 		<a class="arlo_tm_totop" href="#"></a> 
 		<div class="arlo_tm_footer_wrap">
 			<div class="container">
-				<p>&copy; Copyright 2025. All Rights are Reserved by Rashik Shahriar Akash.</p>
+				<p>&copy; Copyright 2025. All Rights are Reserved by Abdullah Al Noman.</p>
 			</div>
 		</div>
 		

@@ -5,7 +5,31 @@
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 
 
-<!-- Mirrored from frenify.com/envato/marketify/html/arlo/1/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 09 Mar 2019 09:48:54 GMT -->
+<!-- Mirrored from frenify.com/envato/marketify/html/arlo/1/index.html by HTTrack Website Cop																													<li>
+										<p> 
+											Radiful Islam, <b>Abdullah Al Noman</b>, Md Awlad Hossen Rony, and Md Zahid Hasan. <a href="https://www.sciencedirect.com/science/article/pii/S2590005624000365" target="_blank">'SAMU-Net: A Dual-Stage Polyp Segmentation Network with a Custom Attention-Based U-Net and Segment Anything Model for Enhanced Mask Prediction'.</a> Array, 2024, 100370. <b>[Q1][1st author equal contribution]</b>[
+										</p>
+									</li>
+										<p> 
+											Radiful Islam, <b>Abdullah Al Noman</b>, Md Awlad Hossen Rony, and Md Zahid Hasan. <a href="https://www.sciencedirect.com/science/article/pii/S2590005624000365" target="_blank">'SAMU-Net: A Dual-Stage Polyp Segmentation Network with a Custom Attention-Based U-Net and Segment Anything Model for Enhanced Mask Prediction'.</a> Array, 2024, 100370. <b>[Q1][1st author equal contribution]</b>[
+										</p>
+									</li>
+									<li>
+										<p> 
+											<b>Abdullah Al Noman</b>, Radiful Islam, SM Saiful Islam Badhon, and KSM Tozammel Hossain. <a href="https://journals.sagepub.com/doi/full/10.1177/20552076241295440" target="_blank">"CerviXpert: A multi-structural convolutional neural network for predicting cervix type and cervical cell abnormalities."</a> Digital Health 10 (2024): 20552076241295440. <b>[Q2]</b>
+										</p>
+										<p> 
+											Radiful Islam, <b>Abdullah Al Noman</b>, Md Awlad Hossen Rony, and Md Zahid Hasan. <a href="https://www.sciencedirect.com/science/article/pii/S2590005624000365" target="_blank">'SAMU-Net: A Dual-Stage Polyp Segmentation Network with a Custom Attention-Based U-Net and Segment Anything Model for Enhanced Mask Prediction'.</a> Array, 2024, 100370. <b>[Q1][1st author equal contribution]</b>[
+										</p>
+									</li><li>
+										<p> 
+											Radiful Islam, <b>Abdullah Al Noman</b>, Md Awlad Hossen Rony, and Md Zahid Hasan. <a href="https://www.sciencedirect.com/science/article/pii/S2590005624000365" target="_blank">'SAMU-Net: A Dual-Stage Polyp Segmentation Network with a Custom Attention-Based U-Net and Segment Anything Model for Enhanced Mask Prediction'.</a> Array, 2024, 100370. <b>[Q1][1st author equal contribution]</b>[
+										</p>
+									</li><li>
+										<p> 
+											Radiful Islam, <b>Abdullah Al Noman</b>, Md Awlad Hossen Rony, and Md Zahid Hasan. <a href="https://www.sciencedirect.com/science/article/pii/S2590005624000365" target="_blank">'SAMU-Net: A Dual-Stage Polyp Segmentation Network with a Custom Attention-Based U-Net and Segment Anything Model for Enhanced Mask Prediction'.</a> Array, 2024, 100370. <b>[Q1][1st author equal contribution]</b>[
+										</p>
+									</li>.x [XR&CO'2014], Sat, 09 Mar 2019 09:48:54 GMT -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="description" content="Name of your web site">
@@ -136,11 +160,11 @@
 									<div class="leftbox">
 										<div class="about_image_wrap parallax" data-relative-input="true">
 											<div class="image layer" data-depth="0.01">
-												<img src="{{ asset('img/about/Rashik0.jpg') }}"/>
-												<div class="inner" data-img-url="{{ asset('img/about/noman02.JPG') }}"></div>
+												<img src="{{ asset('img/about/noman02.jpg') }}"/>
+												<div class="inner" data-img-url="{{ asset('img/about/noman02.jpg') }}"></div>
 											</div>
 											<div class="border layer" data-depth="0.01">
-												<img src="{{ asset('img/about/Rashik0.jpg') }}" alt="550x640" />
+												<img src="{{ asset('img/about/noman02.jpg') }}" alt="550x640" />
 												<div class="inner"></div>
 											</div>
 										</div>
@@ -168,7 +192,7 @@
 										<div class="buttons_wrap">
 											<ul>
 												<li>
-													<a href="{{ asset('RASHIK SHAHRIAR AKASH CV 2025 PHD.pdf') }}" target="_blank"><span>CV</span></a>
+													<a href="{{ asset('ABDULLAH AL NOMAN CV 2025 PHD.pdf') }}" target="_blank"><span>CV</span></a>
 												</li>
 											</ul>
 										</div>
@@ -359,23 +383,23 @@
 									<strong>2024</strong>
 									<li>
 										<p> 
-											Radiful Islam, <b>Rashik Shahriar Akash</b>, Md Awlad Hossen Rony, and Md Zahid Hasan. <a href="https://www.sciencedirect.com/science/article/pii/S2590005624000365" target="_blank">‘SAMU-Net: A Dual-Stage Polyp Segmentation Network with a Custom Attention-Based U-Net and Segment Anything Model for Enhanced Mask Prediction’.</a> Array, 2024, 100370. <b>[Q1][1st author equal contribution]</b>[
+											Radiful Islam, <b>Abdullah Al Noman</b>, Md Awlad Hossen Rony, and Md Zahid Hasan. <a href="https://www.sciencedirect.com/science/article/pii/S2590005624000365" target="_blank">‘SAMU-Net: A Dual-Stage Polyp Segmentation Network with a Custom Attention-Based U-Net and Segment Anything Model for Enhanced Mask Prediction’.</a> Array, 2024, 100370. <b>[Q1][1st author equal contribution]</b>[
 										</p>
 									</li>
 									<li>
 										<p> 
-											<b>Rashik Shahriar Akash</b>, Radiful Islam, SM Saiful Islam Badhon, and KSM Tozammel Hossain. <a href="https://journals.sagepub.com/doi/full/10.1177/20552076241295440" target="_blank">"CerviXpert: A multi-structural convolutional neural network for predicting cervix type and cervical cell abnormalities."</a> Digital Health 10 (2024): 20552076241295440. <b>[Q2]</b>
+											<b>Abdullah Al Noman</b>, Radiful Islam, SM Saiful Islam Badhon, and KSM Tozammel Hossain. <a href="https://journals.sagepub.com/doi/full/10.1177/20552076241295440" target="_blank">"CerviXpert: A multi-structural convolutional neural network for predicting cervix type and cervical cell abnormalities."</a> Digital Health 10 (2024): 20552076241295440. <b>[Q2]</b>
 										</p>    
 									</li>
 								</ul>
 								<ul class="total_100">
 								    <strong>2023</strong>
 									<li>
-										<p> Md Abu Bakar Siddiq Tapu, <b>Rashik Shahriar Akash</b>, Hafiz Al Fahim, Tanin Mohammad Jarin, Touhid Bhuiyan, Ahmed Wasif Reza, and Mohammad Shamsul Arefin. <a href="https://www.researchgate.net/publication/376642396_A_Review_on_the_Impacts_of_Social_Media_on_the_Mental_Health" target="_blank"> "A Review on the Impacts of Social Media on the Mental Health."</a> In International Conference on Intelligent Computing & Optimization, pp. 181-195. Cham: Springer Nature Switzerland, 2023</p> 
+										<p> Md Abu Bakar Siddiq Tapu, <b>Abdullah Al Noman</b>, Hafiz Al Fahim, Tanin Mohammad Jarin, Touhid Bhuiyan, Ahmed Wasif Reza, and Mohammad Shamsul Arefin. <a href="https://www.researchgate.net/publication/376642396_A_Review_on_the_Impacts_of_Social_Media_on_the_Mental_Health" target="_blank"> "A Review on the Impacts of Social Media on the Mental Health."</a> In International Conference on Intelligent Computing & Optimization, pp. 181-195. Cham: Springer Nature Switzerland, 2023</p> 
 									</li>
 									
 									<li>
-										<p> <b>Rashik Shahriar Akash</b>, Mohammad Ullah, Radiful Islam, Sayed Nahid, Ahmed Wasif Reza, and Mohammad Shamsul Arefin. "<a href="https://www.researchgate.net/publication/376489733_A_Comprehensive_Review_on_Family_Budget_Management" target="_blank">A Comprehensive Review on Family Budget Management."</a> In International Conference on Intelligent Computing & Optimization, pp. 379-391. Cham: Springer Nature Switzerland, 2023</p> 
+										<p> <b>Abdullah Al Noman</b>, Mohammad Ullah, Radiful Islam, Sayed Nahid, Ahmed Wasif Reza, and Mohammad Shamsul Arefin. "<a href="https://www.researchgate.net/publication/376489733_A_Comprehensive_Review_on_Family_Budget_Management" target="_blank">A Comprehensive Review on Family Budget Management."</a> In International Conference on Intelligent Computing & Optimization, pp. 379-391. Cham: Springer Nature Switzerland, 2023</p> 
 									</li>
 
 								
@@ -398,28 +422,28 @@
 								<ul class="total_100">
 									<!-- Project 1 -->
 									<li>
-										<p> <b>MRI Image Analysis for Brain Tumor Detection and Classification using Deep Learning</b> <a href="https://github.com/RashikShahriar/MRI-Image-Analysis-for-Brain-Tumor-Detection-and-Classification-using-Deep-Learning" target="_blank">[Project Link]</a><br/>
+										<p> <b>MRI Image Analysis for Brain Tumor Detection and Classification using Deep Learning</b> <a href="https://github.com/Noman5713/MRI-Image-Analysis-for-Brain-Tumor-Detection-and-Classification-using-Deep-Learning" target="_blank">[Project Link]</a><br/>
 											Implemented deep learning models to classify brain MRI scans into four tumor categories, achieving an accuracy of 88.63% with InceptionV3. 	
 										</p>
 									</li>
 
 									<!-- Project 2 -->
 									<li>
-										<p> <b>Accurate Breast Cancer Prediction using Machine Learning</b> <a href="https://github.com/RashikShahriar/Accurate-Breast-Cancer-Prediction-using-Machine-Learning" target="_blank">[Project Link]</a><br/>
+										<p> <b>Accurate Breast Cancer Prediction using Machine Learning</b> <a href="https://github.com/Noman5713/Accurate-Breast-Cancer-Prediction-using-Machine-Learning" target="_blank">[Project Link]</a><br/>
 											Implemented machine learning algorithms to predict breast cancer diagnosis based on cell nucleus characteristics, with Logistic Regression and XGBoost achieving competitive accuracy. 	
 										</p>
 									</li>
 
 									<!-- Project 3 -->
 									<li>
-										<p> <b>DNA Kingdom Prediction and Taxonomic Analysis Using PySpark</b> <a href="https://github.com/RashikShahriar/DNA-Kingdom-Prediction-and-Taxonomic-Analysis-Using-PySpark" target="_blank">[Project Link]</a><br/>
+										<p> <b>DNA Kingdom Prediction and Taxonomic Analysis Using PySpark</b> <a href="https://github.com/Noman5713/DNA-Kingdom-Prediction-and-Taxonomic-Analysis-Using-PySpark" target="_blank">[Project Link]</a><br/>
 											Analyzed DNA codon usage patterns to classify sequences into taxonomic kingdoms and explored evolutionary trends using PySpark for large-scale data processing. Also employed machine learning models and achieved high scalability with PySpark. 	
 										</p>
 									</li>
 
 									<!-- Project 4 -->
 									<li>
-										<p> <b>DIU Transport Management System</b> <a href="https://github.com/RashikShahriar/DIU-Transport-Management-System" target="_blank">[Project Link]</a><br/>
+										<p> <b>DIU Transport Management System</b> <a href="https://github.com/Noman5713/DIU-Transport-Management-System" target="_blank">[Project Link]</a><br/>
 											A Django based system that will automate all the record keeping activities such as buses management, route management and passenger management (Booking and Payments).  	
 										</p>
 									</li>
@@ -631,12 +655,12 @@
 											
 											<div class="leftpart_bottom">
 												<div class="social_wrap">
-														<a href="mailto:rashik15-3825@diu.edu.bd"><i class="fa-solid fa-envelope"></i></a>
+														<a href="mailto:noman15-3825@diu.edu.bd"><i class="fa-solid fa-envelope"></i></a>
 														<a href="https://scholar.google.com/citations?user=1mCyFIUAAAAJ&hl=en"><i class="fa-brands fa-google-scholar"></i></a>
-														<a href="https://www.researchgate.net/profile/Rashik-Akash"><i class="fa-brands fa-researchgate"></i></a>
-														<a href="https://github.com/RashikShahriar"><i class="fa-brands fa-github"></i></a>
-														<a href="https://www.linkedin.com/in/rashik-shahriar-akash/"><i class="xcon-linkedin"></i></a>
-														<a href="https://t.me/RashikShahriar"><i class="fa-brands fa-telegram"></i></a>
+														<a href="https://www.researchgate.net/profile/Abdullah-Al-Noman"><i class="fa-brands fa-researchgate"></i></a>
+														<a href="https://github.com/Noman5713"><i class="fa-brands fa-github"></i></a>
+														<a href="https://www.linkedin.com/in/abdullah-al-noman/"><i class="xcon-linkedin"></i></a>
+														<a href="https://t.me/AbdullahAlNoman"><i class="fa-brands fa-telegram"></i></a>
 												</div>
 											</div>
 											
@@ -648,7 +672,7 @@
 						</div>
 						<div class="arlo_tm_footer_wrap">
 							<div class="container">
-								<p>&copy; Copyright 2025. All Rights are Reserved by Rashik Shahriar Akash.</p>
+								<p>&copy; Copyright 2025. All Rights are Reserved by Abdullah Al Noman.</p>
 							</div>
 						</div>
 					</div>

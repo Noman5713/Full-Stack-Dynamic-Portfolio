@@ -14,11 +14,13 @@ return new class extends Migration
         Schema::create('experiences', function (Blueprint $table) {
             $table->id();
             $table->unsignedBigInteger('user_id');
-            $table->enum('type', ['job', 'internship', 'freelance', 'volunteer']);
-            $table->string('designation');
-            $table->string('organization');
-            $table->date('from_date');
-            $table->date('to_date')->nullable();
+            $table->string('company');
+            $table->string('position');
+            $table->date('start_date');
+            $table->date('end_date')->nullable();
+            $table->text('description')->nullable();
+            $table->string('location')->nullable();
+            $table->boolean('is_current')->default(false);
             $table->timestamps();
         });
 

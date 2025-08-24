@@ -15,7 +15,7 @@ return new class extends Migration
             $table->id();
             $table->unsignedBigInteger('user_id');
             $table->string('name');
-            $table->enum('type', ['technical', 'soft']);
+            $table->enum('category', ['technical', 'soft']);
             $table->enum('level', ['beginner', 'intermediate', 'expert']);
             $table->string('logo')->nullable();
             $table->timestamps();

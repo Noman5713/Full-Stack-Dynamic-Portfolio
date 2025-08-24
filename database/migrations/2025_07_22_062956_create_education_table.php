@@ -11,19 +11,20 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('educations', function (Blueprint $table) {
+        Schema::create('education', function (Blueprint $table) {
             $table->id();
             $table->unsignedBigInteger('user_id');
-            $table->enum('type', ['SSC', 'HSC', 'BSc', 'MSc']);
-            $table->string('name');
-            $table->string('institute');
-            $table->year('enrolled_year');
-            $table->year('passing_year');
-            $table->string('grade');
+            $table->string('institution');
+            $table->string('degree');
+            $table->string('field_of_study')->nullable();
+            $table->date('start_date');
+            $table->date('end_date')->nullable();
+            $table->string('grade')->nullable();
+            $table->text('description')->nullable();
             $table->timestamps();
         });
 
-         Schema::table('educations', function (Blueprint $table) {
+         Schema::table('education', function (Blueprint $table) {
         $table->foreign('user_id')->references('id')->on('users')->ondelete('cascade');
         });
     }
